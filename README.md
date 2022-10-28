@@ -1,2 +1,2 @@
 # MyProjects
-Банковские счета.  Клиент может иметь несколько счетов в банке. Учитывать возможность блокировки/разблокировки счета. Реализовать поиск и сортировку счетов. Вычисление общей суммы по счетам. Вычисление суммы по счетам, имеющим положительный и отрицательный балансы отдельно.
+Bank accounts. A client can have several bank accounts. Consider the possibility of blocking/unblocking the account. Implement the search and sorting of invoices. Calculation of the total amount of bills. Calculation of the amount for accounts that have positive and negative balances separately.
